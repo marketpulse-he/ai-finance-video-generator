@@ -1,0 +1,25 @@
+# ============================================================
+# AI Finance Video Generator - Dependencies
+# ============================================================
+# Install: pip install -r requirements.txt
+#
+# All dependencies are FREE and open-source.
+# No paid API keys required!
+
+# Core dependencies
+pillow>=10.0.0              # Image rendering and text overlay
+numpy>=1.24.0               # Array operations for frame manipulation
+
+# Video generation
+moviepy>=1.0.3              # Video encoding and assembly
+imageio>=2.31.0             # Image I/O backend for moviepy
+imageio-ffmpeg>=0.4.9       # FFmpeg binary wrapper for moviepy
+
+# Text-to-Speech (FREE - no API key needed)
+edge-tts>=6.1.0             # Microsoft Edge TTS (supports 100+ languages)
+
+# Audio processing (optional, for advanced audio features)
+# pydub>=0.25.1             # Uncomment for audio splitting/merging
+
+# Utilities
+requests>=2.28.0            # HTTP requests (for future API integrations)
