@@ -1,3 +1,21 @@
+ ---
+
+    <div align="center">
+      <img src="cover.png" alt="AI Finance Video Generator" width="600">
+
+      <h1>AI Finance Video Generator</h1>
+      <h3>Auto-Create YouTube Shorts in Minutes — Zero Experience Needed</h3>
+
+      <p><strong>Price: $19</strong> (One-time payment, lifetime updates)</p>
+
+      <p>
+        <a href="mailto:124549483@qq.com"><strong>Contact to Purchase</strong></a>
+      </p>
+
+      <p><em>WeChat / Email: 124549483@qq.com</em></p>
+    </div>
+
+    ---
 # AI Finance Video Generator
 ### Auto-Create YouTube Shorts in Minutes — Zero Experience Needed
 
@@ -314,4 +332,7 @@ This product is licensed for personal and commercial use. You may generate unlim
 
 ---
 
-*Created with AI — Powered by Python — Built for Creators*
+* <div align="center">
+      <p><strong>Ready to start? Contact: 124549483@qq.com</strong></p>
+      <p><em>$19 — One-time payment — Lifetime access — Commercial use allowed</em></p>
+    </div>*
