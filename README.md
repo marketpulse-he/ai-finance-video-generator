@@ -1,4 +1,4 @@
- ---
+    ---
 
     <div align="center">
       <img src="cover.png" alt="AI Finance Video Generator" width="600">
@@ -6,13 +6,17 @@
       <h1>AI Finance Video Generator</h1>
       <h3>Auto-Create YouTube Shorts in Minutes — Zero Experience Needed</h3>
 
-      <p><strong>Price: $19</strong> (One-time payment, lifetime updates)</p>
+      <p><strong>Price: $19 (≈¥138)</strong> — One-time payment, lifetime updates</p>
 
-      <p>
-        <a href="mailto:124549483@qq.com"><strong>Contact to Purchase</strong></a>
-      </p>
+      <h3>How to Buy</h3>
+      <p>Scan the QR code below with Alipay to purchase:</p>
 
-      <p><em>WeChat / Email: 124549483@qq.com</em></p>
+      <img src="收款码.jpg" alt="Alipay QR Code" width="300">
+
+      <p>After payment, email <strong>124549483@qq.com</strong> with your payment screenshot.</p>
+      <p>You'll receive the download link within 24 hours.</p>
+
+      <p><em>Or contact via WeChat: 124549483@qq.com</em></p>
     </div>
 
     ---
